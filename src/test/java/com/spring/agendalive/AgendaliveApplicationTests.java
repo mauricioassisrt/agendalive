@@ -8,6 +8,7 @@ class AgendaliveApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
